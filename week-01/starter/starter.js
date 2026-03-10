@@ -6,7 +6,7 @@
 // Información general del laboratorio
 console.log("=========================================");
 console.log("  SISTEMA DE GESTIÓN DE LABORATORIO");
-console.log("           FICHA #001");
+console.log("           FICHA #3407184");
 console.log("=========================================");
 
 console.log("");
