@@ -1,4 +1,4 @@
-# 🧪 Proyecto Semana 1 - Sistema de Gestión de Laboratorio
+# 🧪 Proyecto - Sistema de Gestión de Laboratorio
 
 ## 📌 Descripción
 
